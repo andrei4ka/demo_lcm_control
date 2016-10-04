@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.mtn5.cci.att.com
+port=29418
+project=lcm_control.git
+defaultbranch=main/9.0
